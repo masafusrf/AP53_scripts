@@ -1,0 +1,4 @@
+Tornillos 50 1
+Tuercas 5 2
+Arandelas 8 4
+Martillos 12 23

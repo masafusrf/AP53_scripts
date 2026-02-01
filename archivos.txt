@@ -1,0 +1,6 @@
+foto1.jpg
+documento.pdf
+notas.txt
+vacaciones.jpg
+script_final
+data.csv
